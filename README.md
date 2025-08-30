@@ -1,2 +1,3 @@
-# terraform-s3-website
-A complete beginner attempt to create a S3 website
+  ```bash
+   git clone https://github.com/b1rian2/terraform-s3-website.git
+   cd terraform-s3-website
