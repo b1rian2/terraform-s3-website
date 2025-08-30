@@ -7,7 +7,7 @@ It demonstrates Infrastructure as Code (IaC), AWS resource provisioning, and sta
    ```bash
    git clone https://github.com/b1rian2/terraform-s3-website.git
    cd terraform-s3-website
-
+   ```
 ## Screenshots
 Website deployed with Terraform:
 
